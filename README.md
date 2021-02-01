@@ -37,7 +37,7 @@ Póczos Barnabás, Liang Xiong, and Jeff Schneider. _(UAI 2011)_
 `#knn`  `#Renyi` `#L2`  
 [[paper]](https://arxiv.org/abs/1202.3758) 
 [[code]](https://github.com/djsutherland/np-divs) 
-[[myCode]](Nonparametric_Divergence_Estimation.ipynb)
+[[myCode]](codes/Nonparametric_Divergence_Estimation.ipynb)
 
 - **Divergence estimation for multidimensional densities via k-nearest-neighbor distances.**    
 Qing Wang, Sanjeev R. Kulkarni, and Sergio Verdú. _(IEEE Transactions on Information Theory 2009)_  
@@ -49,7 +49,7 @@ Qing Wang, Sanjeev R. Kulkarni, and Sergio Verdú. _(IEEE Transactions on Inform
 Kevin R. Moon, Kumar Sricharan, Kristjan Greenewald, and Alfred O. Hero. _(Entropy 2018)_   
 `#kde`  `#ensemble`   
 [[paper]](https://www.mdpi.com/1099-4300/20/8/560) 
-[[myCode]](Nonparametric_Divergence_Estimation.ipynb)
+[[myCode]](codes/Nonparametric_Divergence_Estimation.ipynb)
 
 #### Other Methods
 - **Estimating divergence functionals and the likelihood ratio by convex risk minimization**    
@@ -58,4 +58,4 @@ XuanLong Nguyen, Martin J. Wainwright, and Michael I. Jordan. _(IEEE Transaction
 [[paper]](https://arxiv.org/abs/0809.0853) 
 
 ## Comparison
-<p align="center"><img src="comparison.png" width="600"\></p>
+<p align="center"><img src="assets/comparison.png" width="600"\></p>
