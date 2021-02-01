@@ -7,6 +7,7 @@
     - [Nonparametric Divergence Estimation](#Nonparametric-Divergence-Estimation)
         - [k-NN-based Methods](#k-NN-based-Methods)
         - [KDE-based Methods](#KDE-based-Methods)
+        - [Other Methods](#Other-Methods)
 - [Comparison](#Comparison) 
    
 ## Literatures
