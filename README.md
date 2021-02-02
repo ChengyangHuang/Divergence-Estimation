@@ -15,7 +15,7 @@
 ### Divergence
 - **Renyi Divergence and Kullback-Leibler Divergence**  
 Tim van Erven and Peter Harremoës. _(IEEE Transactions on Information Theory 2014)_  
-`#Renyi` `#KL` 
+`#Renyi` `#KL`  
 [[paper]](https://arxiv.org/abs/1202.3758) 
 
 - **On measures of entropy and information**  
@@ -31,6 +31,7 @@ Alfréd Rényi. _(Berkeley Symposium on Mathematical Statistics and Probability 
 Kevin R. Moon and Alfred O. Hero. _(IEEE International Symposium on Information Theory 2014)_   
 `#knn` `#ensemble` `#f-divergence`  
 [[paper]](https://arxiv.org/abs/1404.6230) 
+[[myCode]](codes/Nonparametric_Divergence_Estimation.ipynb)
 
 - **Nonparametric Divergence Estimation with Applications to Machine Learning on Distributions**  
 Póczos Barnabás, Liang Xiong, and Jeff Schneider. _(UAI 2011)_  
@@ -58,4 +59,7 @@ XuanLong Nguyen, Martin J. Wainwright, and Michael I. Jordan. _(IEEE Transaction
 [[paper]](https://arxiv.org/abs/0809.0853) 
 
 ## Comparison
+TODOes
+- add Time metric
 <p align="center"><img src="assets/comparison.png" width="600"\></p>
+
