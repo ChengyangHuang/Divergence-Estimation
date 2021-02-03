@@ -44,6 +44,7 @@ Póczos Barnabás, Liang Xiong, and Jeff Schneider. _(UAI 2011)_
 Qing Wang, Sanjeev R. Kulkarni, and Sergio Verdú. _(IEEE Transactions on Information Theory 2009)_  
 `#knn` `#adaptive-k`    
 [[paper]](https://ieeexplore.ieee.org/abstract/document/4839047?casa_token=W48--84drJwAAAAA:BFNva31utq4xq282ZgnyN29JDvjd5H6AF0ikmJx9uFW0_17S17wkpsP8kFrGvqa2f0fbyE_jjrk4)
+[[code]](https://github.com/slaypni/universal-divergence)
 
 #### KDE-based Methods
 - **Ensemble estimation of information divergence**   
